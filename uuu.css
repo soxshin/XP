@@ -1,0 +1,35 @@
+h1 {
+    font-size: 300%;
+    font-family: Segoe script;
+    color: #371d2b
+}
+body {
+    background-color: lightpink;
+}
+a:link {
+    color: palevioletred;
+}
+a:visited {
+    color: lightpink;
+}
+a:active {
+    color: mediumpurple;
+}
+h2 {
+    font-size: 90%;
+    font-family: Segoe script;
+    color: #371d2b
+}
+footer {
+    height: 90px;
+}
+h3 {
+    font-size: 120%;
+    font-family: Monotype Corsiva;
+    color: #371d2b
+}
+header img {
+    position: absolute;
+    top: 21px;
+    right: 18px;
+}
